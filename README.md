@@ -54,4 +54,5 @@ An automated, dual-stream deep learning decision support system for comprehensiv
 * **Backend & API:** Python, PyTorch, Detectron2, FastAPI
 * **Donanım:** NVIDIA T4 GPU (Google Colab Pro)
 
+<img width="1738" height="962" alt="image" src="https://github.com/user-attachments/assets/4ab192c9-af5e-4753-9b39-3b8d24999904" />
 
